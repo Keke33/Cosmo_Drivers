@@ -1,0 +1,11 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\CosmoDriversV3).
+  Creating makefile for Base2Editor (source directory changed)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] MyLibrary.cpp
+    [2/3] UE4Editor-Base2.lib
+       CrÚation de la bibliothÞque D:\Unreal\CosmoDriversV3\Base2\Intermediate\Build\Win64\UE4Editor\Development\Base2\UE4Editor-Base2.lib et de l'objet D:\Unreal\CosmoDriversV3\Base2\Intermediate\Build\Win64\UE4Editor\Development\Base2\UE4Editor-Base2.exp
+    [3/3] UE4Editor-Base2.dll
+       CrÚation de la bibliothÞque D:\Unreal\CosmoDriversV3\Base2\Intermediate\Build\Win64\UE4Editor\Development\Base2\UE4Editor-Base2.suppressed.lib et de l'objet D:\Unreal\CosmoDriversV3\Base2\Intermediate\Build\Win64\UE4Editor\Development\Base2\UE4Editor-Base2.suppressed.exp
+  Deploying Base2Editor Win64 Development...
+  Total build time: 4,72 seconds (Parallel executor: 1,50 seconds)
